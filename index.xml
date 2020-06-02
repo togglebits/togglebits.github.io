@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>just functional</title>
+    <link>https://rootbid.github.io/</link>
+    <description>Recent content on just functional</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rootbid.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTTP/3 - HTTP over QUIC</title>
+      <link>https://rootbid.github.io/posts/quic/</link>
+      <pubDate>Fri, 25 Oct 2019 15:01:03 -0500</pubDate>
+      
+      <guid>https://rootbid.github.io/posts/quic/</guid>
+      <description>As I am sipping down my morning coffee and read my Twitter feed, my app is making multiple API calls over HTTPS to Twitter&amp;rsquo;s servers somewhere on the Internet. Those HTTPS connections are running over TCP via my home WiFi and broadband connection. All&amp;rsquo;s well, the WiFi connection has the least inference, the broadband connection is stable and so there&amp;rsquo;s no packet loss. Those are perfect conditions for HTTPS running over TCP.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rootbid.github.io/about/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rootbid.github.io/about/</guid>
+      <description>About Me Hi! I am Deepansh Sood. I was born in 1995 and spent most of my youth in Himachal Pradesh, India. I currently live in Bengaluru and write code for companies such as Wipro CRS and previously Ants Digital. Before that I studied Computer Science at Amity University.
+Did I tell you the things I like? I have been fascinated by computers since my childhood and recently found myself involved with learning Rust and Haskell.</description>
+    </item>
+    
+  </channel>
+</rss>

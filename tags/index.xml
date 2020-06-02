@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on just functional</title>
+    <link>https://rootbid.github.io/tags/</link>
+    <description>Recent content in Tags on just functional</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 25 Oct 2019 15:01:03 -0500</lastBuildDate>
+    
+	<atom:link href="https://rootbid.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Internet</title>
+      <link>https://rootbid.github.io/tags/internet/</link>
+      <pubDate>Fri, 25 Oct 2019 15:01:03 -0500</pubDate>
+      
+      <guid>https://rootbid.github.io/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QUIC</title>
+      <link>https://rootbid.github.io/tags/quic/</link>
+      <pubDate>Fri, 25 Oct 2019 15:01:03 -0500</pubDate>
+      
+      <guid>https://rootbid.github.io/tags/quic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTTP/3</title>
+      <link>https://rootbid.github.io/tags/http/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rootbid.github.io/tags/http/3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
