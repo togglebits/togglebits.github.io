@@ -6,10 +6,6 @@
     <description>Recent content in Categories on Deepansh&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Deepansh Sood</copyright>
-    
-	<atom:link href="https://rootbid.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Deepansh Sood</copyright><atom:link href="https://rootbid.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
