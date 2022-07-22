@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Deepansh&#39;s website</title>
-    <link>https://rootbid.github.io/posts/</link>
+    <link>https://togglebits.github.io/posts/</link>
     <description>Recent content in Posts on Deepansh&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Deepansh Sood</copyright>
-    <lastBuildDate>Sat, 02 Oct 2021 12:52:10 +0530</lastBuildDate><atom:link href="https://rootbid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Oct 2021 12:52:10 +0530</lastBuildDate><atom:link href="https://togglebits.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Saving planet Earth</title>
-      <link>https://rootbid.github.io/posts/saving_planet_earth/</link>
+      <link>https://togglebits.github.io/posts/saving_planet_earth/</link>
       <pubDate>Sat, 02 Oct 2021 12:52:10 +0530</pubDate>
       
-      <guid>https://rootbid.github.io/posts/saving_planet_earth/</guid>
+      <guid>https://togglebits.github.io/posts/saving_planet_earth/</guid>
       <description>Atmosphere is what allows life on Earth, it&amp;rsquo;s a layer of gases surrounding the planet that is retained by the planet&amp;rsquo;s gravity. Carbon dioxide is the most significant long-lived gas in our atmosphere which is responsible for life on Earth. Without carbon dioxide the light from the sun falling on earth would simply bounce back into space, while the presence of carbon dioxide absorbs the light from sun and allow heating the planet for life to exist.</description>
     </item>
     
     <item>
       <title>HTTP/3 - HTTP over QUIC</title>
-      <link>https://rootbid.github.io/posts/quic/</link>
+      <link>https://togglebits.github.io/posts/quic/</link>
       <pubDate>Fri, 25 Oct 2019 15:01:03 -0500</pubDate>
       
-      <guid>https://rootbid.github.io/posts/quic/</guid>
+      <guid>https://togglebits.github.io/posts/quic/</guid>
       <description>As I am sipping down my morning coffee and read my Twitter feed, my app is making multiple API calls over HTTPS to Twitter&amp;rsquo;s servers somewhere on the Internet. Those HTTPS connections are running over TCP via my home WiFi and broadband connection. All&amp;rsquo;s well, the WiFi connection has the least inference, the broadband connection is stable and so there&amp;rsquo;s no packet loss. Those are perfect conditions for HTTPS running over TCP.</description>
     </item>
     
