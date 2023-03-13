@@ -1,91 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on the secure natural world</title>
-    <link>https://togglebits.github.io/tags/</link>
-    <description>Recent content in Tags on the secure natural world</description>
+    <title>Tags on my personal website</title>
+    <link>https://rootbid.github.io/tags/</link>
+    <description>Recent content in Tags on my personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Deepansh Sood</copyright>
-    <lastBuildDate>Mon, 05 Dec 2022 22:49:10 +0530</lastBuildDate><atom:link href="https://togglebits.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2022 22:49:10 +0530</lastBuildDate><atom:link href="https://rootbid.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>data</title>
-      <link>https://togglebits.github.io/tags/data/</link>
+      <link>https://rootbid.github.io/tags/data/</link>
       <pubDate>Mon, 05 Dec 2022 22:49:10 +0530</pubDate>
       
-      <guid>https://togglebits.github.io/tags/data/</guid>
+      <guid>https://rootbid.github.io/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>law</title>
-      <link>https://togglebits.github.io/tags/law/</link>
+      <link>https://rootbid.github.io/tags/law/</link>
       <pubDate>Mon, 05 Dec 2022 22:49:10 +0530</pubDate>
       
-      <guid>https://togglebits.github.io/tags/law/</guid>
+      <guid>https://rootbid.github.io/tags/law/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>https://togglebits.github.io/tags/privacy/</link>
+      <link>https://rootbid.github.io/tags/privacy/</link>
       <pubDate>Mon, 05 Dec 2022 22:49:10 +0530</pubDate>
       
-      <guid>https://togglebits.github.io/tags/privacy/</guid>
+      <guid>https://rootbid.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate</title>
-      <link>https://togglebits.github.io/tags/climate/</link>
+      <link>https://rootbid.github.io/tags/climate/</link>
       <pubDate>Sat, 02 Oct 2021 12:52:10 +0530</pubDate>
       
-      <guid>https://togglebits.github.io/tags/climate/</guid>
+      <guid>https://rootbid.github.io/tags/climate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Humanity</title>
-      <link>https://togglebits.github.io/tags/humanity/</link>
+      <link>https://rootbid.github.io/tags/humanity/</link>
       <pubDate>Sat, 02 Oct 2021 12:52:10 +0530</pubDate>
       
-      <guid>https://togglebits.github.io/tags/humanity/</guid>
+      <guid>https://rootbid.github.io/tags/humanity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sustainability</title>
-      <link>https://togglebits.github.io/tags/sustainability/</link>
+      <link>https://rootbid.github.io/tags/sustainability/</link>
       <pubDate>Sat, 02 Oct 2021 12:52:10 +0530</pubDate>
       
-      <guid>https://togglebits.github.io/tags/sustainability/</guid>
+      <guid>https://rootbid.github.io/tags/sustainability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet</title>
-      <link>https://togglebits.github.io/tags/internet/</link>
+      <link>https://rootbid.github.io/tags/internet/</link>
       <pubDate>Fri, 25 Oct 2019 15:01:03 -0500</pubDate>
       
-      <guid>https://togglebits.github.io/tags/internet/</guid>
+      <guid>https://rootbid.github.io/tags/internet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QUIC</title>
-      <link>https://togglebits.github.io/tags/quic/</link>
+      <link>https://rootbid.github.io/tags/quic/</link>
       <pubDate>Fri, 25 Oct 2019 15:01:03 -0500</pubDate>
       
-      <guid>https://togglebits.github.io/tags/quic/</guid>
+      <guid>https://rootbid.github.io/tags/quic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTTP/3</title>
-      <link>https://togglebits.github.io/tags/http/3/</link>
+      <link>https://rootbid.github.io/tags/http/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://togglebits.github.io/tags/http/3/</guid>
+      <guid>https://rootbid.github.io/tags/http/3/</guid>
       <description></description>
     </item>
     

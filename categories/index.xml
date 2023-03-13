@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on the secure natural world</title>
-    <link>https://togglebits.github.io/categories/</link>
-    <description>Recent content in Categories on the secure natural world</description>
+    <title>Categories on my personal website</title>
+    <link>https://rootbid.github.io/categories/</link>
+    <description>Recent content in Categories on my personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Deepansh Sood</copyright><atom:link href="https://togglebits.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Deepansh Sood</copyright><atom:link href="https://rootbid.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
